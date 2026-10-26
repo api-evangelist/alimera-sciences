@@ -65,4 +65,17 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 Alimera Sciences is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by nea) and added to the network as a stub for full-pipeline profiling.
-- http://www.alimerasciences.com
+
+**Areas:** Rare Disease · Contract Manufacturing · Pharmaceuticals
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://www.alimerasciences.com)
+- [Terms of service](https://www.anipharmaceuticals.com/terms-of-use.php)
+- [Privacy policy](https://www.anipharmaceuticals.com/privacy.php)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/alimera-sciences/](https://apis.io/providers/alimera-sciences/).
